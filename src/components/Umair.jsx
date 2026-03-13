@@ -21,9 +21,9 @@ const Umair = () => {
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Umair</th>
+      <th scope="col">Aslam</th>
+      <th scope="col">Done</th>
     </tr>
   </thead>
   <tbody>
