@@ -1,13 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
 import Harder from './components/Harder';
-import Umair from './components/Umair';
+import Shahzaib from './components/Shahzaib';
 
 function App() {
   return (
     <div className="App">
 <Harder/><hr/>
 <Umair/>
+<Harder/>
+<Shahzaib/>
     </div>
   );
 }
